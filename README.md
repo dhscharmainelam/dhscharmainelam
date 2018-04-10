@@ -15,7 +15,7 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p> I like drawing manga and singing. </p>
 <ul>
 <li>Drawing manga</li>
-<a href="https://play.google.com/store/apps/details?id=com.mangadrawingbooks.Samuelapps"> Drew manga girl </a>
+<a href="http://img14.deviantart.net/aa49/i/2011/360/0/8/manga_girl_bepsvic_by_bepsvic-d4k9q0z.jpg"> Drew manga girl </a>
 <li>Spending lots of money buying art supplies </li>
 <li>Reading Art tutorial books </li>
 </ul>
