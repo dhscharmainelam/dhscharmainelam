@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> All About Me</h1>
-<title>Welcome to my website!</title>
+<title>Welcome to my website</title>
 <img src="https://dhis.dhs.sg/data/photos/7FCA6B64-5480-4AE6-9262-50EEF307E578.jpg"/>
 <p>
 My name is Charmaine Lam. I am a student of Dunman High School. Currently in 1st year high school.I love animals and nature, and exploring the world </p>
